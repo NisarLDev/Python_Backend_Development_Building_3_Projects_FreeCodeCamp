@@ -2,7 +2,6 @@
 
 I will progressively add content.
 
-
 Projects Built:
 1. AI Web App
 💻 Github: github.com/tomitokko/ai-blog-article-generator

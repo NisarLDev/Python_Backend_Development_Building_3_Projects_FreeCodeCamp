@@ -12,3 +12,10 @@ Projects Built:
 3. Spotify Clone
 💻 Github: github.com/tomitokko/spotify-clone
 🔗 API Link: rapidapi.com/DataFanatic/api/spotify-scraper
+
+
+### Bibliography
+
+1 -  Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit 
+
+https://www.youtube.com/watch?v=WkUBx3g2QfQ

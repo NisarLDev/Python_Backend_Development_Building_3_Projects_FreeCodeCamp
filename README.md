@@ -19,3 +19,8 @@ Projects Built:
 1 -  Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit 
 
 https://www.youtube.com/watch?v=WkUBx3g2QfQ
+
+
+2 -  Transforming Code into Beautiful, Idiomatic Python 
+
+https://www.youtube.com/watch?v=OSGv2VnC0go

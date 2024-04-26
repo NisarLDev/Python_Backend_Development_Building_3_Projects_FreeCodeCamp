@@ -16,11 +16,16 @@ Projects Built:
 
 ### Bibliography
 
-1 -  Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit 
+1 -  Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit.
 
 https://www.youtube.com/watch?v=WkUBx3g2QfQ
 
 
-2 -  Transforming Code into Beautiful, Idiomatic Python 
+2 -  Transforming Code into Beautiful, Idiomatic Python.
 
 https://www.youtube.com/watch?v=OSGv2VnC0go
+
+
+3 - Los modelos MVC y MVT con Django.
+
+https://programacionfacil.org/blog/los-modelos-mvc-y-mvt-con-django/

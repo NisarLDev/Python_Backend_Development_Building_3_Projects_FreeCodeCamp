@@ -34,3 +34,8 @@ https://programacionfacil.org/blog/los-modelos-mvc-y-mvt-con-django/
 
 
 https://elwillie.es/2023/05/25/ejemplo-de-un-proyecto-basico-con-python-django-y-pycharm/
+
+5 - ¿Cómo es la estructura de Django?
+
+
+https://www.adrformacion.com/knowledge/programacion/_como_es_la_estructura_de_django_.html

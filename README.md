@@ -29,3 +29,8 @@ https://www.youtube.com/watch?v=OSGv2VnC0go
 3 - Los modelos MVC y MVT con Django.
 
 https://programacionfacil.org/blog/los-modelos-mvc-y-mvt-con-django/
+
+4 -   Ejemplo de un proyecto básico con Python, Django y PyCharm
+
+
+https://elwillie.es/2023/05/25/ejemplo-de-un-proyecto-basico-con-python-django-y-pycharm/
